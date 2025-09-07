@@ -15,7 +15,7 @@
 
 ## 🔹 About Me
 
-- 👨‍💻 Currently working as a **Web Applications**  
+- 👨‍💻 Currently working as a **Web Developer**  
 - 🚀 Passionate about **Web Apps, DevOps, and Cloud Management**  
 - ⚡ Big fan of **Tailwind + React + Svelte**  
 - 🔧 On the backend, nothing beats **Node.js**  
