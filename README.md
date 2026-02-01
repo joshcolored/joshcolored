@@ -63,7 +63,7 @@
 ### 🚀 Apps & Tools
 - 📂[**AllSend**](https://all-send.vercel.app) → A web app that u can transfer files instantly.
 - 🐚 [**Dondeezco**](https://dondeezco.vercel.app) → A booking management for easy reservations.
-- 📊 [**Bandwidth Monitoring**] → A multiple ISP bandwidth monitoring portals into one unified, always-on dashboard, designed for IT, NOC, and internal monitoring environments. 
+- 📊 [**Bandwidth Monitoring**](https://github.com/joshcolored/bandwidth-monitoring) → A multiple ISP bandwidth monitoring portals into one unified, always-on dashboard, designed for IT, NOC, and internal monitoring environments. 
 - Checkout my other repositories😅...
 
 ---
